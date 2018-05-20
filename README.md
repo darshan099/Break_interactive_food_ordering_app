@@ -5,7 +5,7 @@ An interactive food ordering app with hands-off experience
     
     Online Database: google spreadsheet
     
-    The qr code generated can only to scanned using mybreakclient app (check repo)
+    The qr code generated can only to scanned using break_client app (check repo)
     
     Implements used:
     
@@ -46,7 +46,7 @@ An interactive food ordering app with hands-off experience
     1.c) concatinate all the order list and order quantity
     2) the order is then stored to google spreadsheet with the following parameters, timestamp, id, <order quantities>, validity
     3) the id of your order is then encoded into a qr code.
-    4) the qr code then will be scanned by another app, mybreakclient (in my repo) which will get all the orders from the spreadsheet
+    4) the qr code then will be scanned by another app, break_client (in my repo) which will get all the orders from the spreadsheet
     
     possible issues/bugs:
     
